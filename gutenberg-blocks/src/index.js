@@ -1,0 +1,10 @@
+import './home-banner-block.js';
+import './imge-content-block.js';
+import './homepage-new-block.js';
+import './slider.js';
+import './kontack.js';
+import './Downloadfile.js';
+import './sidebar-list.js';
+import './add-title-block.js';
+import './image_backgroundcolor.js';
+import './gallery-slider.js';
